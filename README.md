@@ -1,4 +1,4 @@
-# Face Detection System
+# Automated Face Detection Attendance System
 
 Developed a full-featured GUI-based face detection system using Python and Tkinter for real-time interaction.
 
@@ -15,8 +15,13 @@ Applied multistage image pre-processing and detection pipelines using cv2.cvtCol
 Focused on usability with clean layout management and screen transitions for an intuitive user experience.
 
 ## Tools & Technologies
+- Jupyter Lab / VS Code
 - Python 
 - OpenCV
 - Tkinter
 - PIL
-- Haar Cascades
+- OS
+## Pip install
+- Tkinter
+- OpenCV
+- Pillow
